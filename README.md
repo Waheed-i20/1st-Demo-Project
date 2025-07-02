@@ -1,4 +1,4 @@
 # 1st-Demo-Project
-Project 1
+Mac
 <br>
-Python Project
+OS
