@@ -1,2 +1,2 @@
-# 1st-Demo-Project
+# Demo-Project
 
