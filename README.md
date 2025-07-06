@@ -1,5 +1,3 @@
 # Demo-Project
-Python
-<b>
-Class
+Python Class
 
